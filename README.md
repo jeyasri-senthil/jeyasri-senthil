@@ -43,6 +43,4 @@
 ![Generic badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeyasri-senthil)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyasri-senthil&show_icons=true)   ![GitHub streak stats](https://streak-stats.demolab.com/?user=jeyasri-senthil)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jeyasri-senthil)
