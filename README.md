@@ -4,7 +4,7 @@
         <h2><p align="center"><b>Hi there 👋,  <i>I'm JEYASRI S!</i></b><h2></p>
   <hr></p>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FIRST,+SOLVE+THE+PROBLEM.;THEN,+WRITE+THE+CODE.)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FIRST,+SOLVE+THE+PROBLEM.;THEN,+WRITE+THE+CODE.)
   <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="100" height="100" >
 
 <hr>    
@@ -52,15 +52,16 @@
    ![Generic badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
    #### 👩🏻‍💻 PROGRAMMING & MARKUP LANGUAGES
-   ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![Generic badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
    ![Generic badge](https://img.shields.io/badge/SQL-777BB4?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
    #### 🧰 FRAMEWORK & LIBRARIES
    ![Generic badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
    ![Generic badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+   ![Generic badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
   
    #### ✍🏻 I WRITE MY QUERIES AT:
    
