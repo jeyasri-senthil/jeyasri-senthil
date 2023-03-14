@@ -12,8 +12,8 @@
   
   <h6> 🤍🤳🏻 <i>LET'S GET CONNECTED</i></h6>
   
-   https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/jeyasri-senthil-60947b226/)
-   ![Gmail](https://img.shields.io/badge/jeyasrisenthill@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/jeyasri-senthil-60947b226/)
+   ![Gmail Badge](https://img.shields.io/badge/jeyasrisenthill@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat)
 </div>
 <hr>
 <h4> 🙋🏻‍♀️ <i>ABOUT ME</i></h4>
@@ -28,8 +28,8 @@
 <div align="center">
   <h4> 👀 <i>TAKE A LOOK AT MY WORKS ON</i></h4>
 
-   [![Generic badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeyasri-senthil)
-   [![Generic badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/jeyasrisenthil)
+   [![Badge](https://img.shields.io/badge/KAGGLE-20BEFF?logo=kaggle&logoColor=fff&style=flat)](https://www.kaggle.com/jeyasrisenthil)
+   [![Badge](https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=fff&style=flat)](https://github.com/jeyasri-senthil)
 </div>
 <hr>
 <div align="center"><i>
@@ -42,31 +42,25 @@
  <summary><h4> 🌐 <i>CODING STUFFS</i></h4></summary>
   
  <div align="center">
-   
-   #### 💻 <i>SOFTWARE AND TOOLS</i>
-   ![Generic badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/AZURE%20ML-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-   ![Generic badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
    #### 👩🏻‍💻 <i>PROGRAMMING & MARKUP LANGUAGES</i>
-   ![Generic badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-   ![Generic badge](https://img.shields.io/badge/SQL-777BB4?style=for-the-badge&logo=oracle&logoColor=white)
-    ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Generic badge](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/MY%20SQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
-   #### 🧰 <i>FRAMEWORK & LIBRARIES</i>
-   ![Generic badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-   ![Generic badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+   #### 🧰 <i>LIBRARIES & FRAMEWORK</i>
+   ![Generic badge](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/OPENCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/STREAMLIT-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
 
   
    #### ✍🏻 <i>I WRITE MY QUERIES AT:</i>
    
-   [![Generic badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
-   [![Generic badge](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Jeyasri-Senthil)
+   [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
+   [![Generic badge](https://img.shields.io/badge/QUORA-B92B27?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
    <div>
 </details>
 
