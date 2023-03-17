@@ -44,23 +44,23 @@
  <div align="center">
   
    #### 👩🏻‍💻 <i>PROGRAMMING & MARKUP LANGUAGES</i>
-   ![Generic badge](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/MY%20SQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/PYTHON-3670A0?logo=python&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/MY%20SQL-CC2927?logo=mysql&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/CSS3-%2338B2AC?logo=css3&logoColor=fff&style=flat)
 
    #### 🧰 <i>LIBRARIES & FRAMEWORK</i>
-   ![Generic badge](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/OPENCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/NUMPY-%23013243.svg?logo=numpy&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/PANDAS-%23150458?logo=pandas&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/OPENCV-%23white.svg?logo=opencv&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E?logo=scikitlearn&logoColor=fff&style=flat)
    ![Generic badge](https://img.shields.io/badge/STREAMLIT-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
 
   
    #### ✍🏻 <i>I WRITE MY QUERIES AT:</i>
    
-   [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
-   [![Generic badge](https://img.shields.io/badge/QUORA-B92B27?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
+   [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-FE7A16?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
+   [![Generic badge](https://img.shields.io/badge/QUORA-%23B92B27.svg?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
    <div>
 </details>
 
