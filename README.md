@@ -13,7 +13,7 @@
   <h6> 🤍🤳🏻 <i>LET'S GET CONNECTED</i></h6>
   
    [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/jeyasri-senthil-60947b226/)
-   ![Gmail Badge](https://img.shields.io/badge/jeyasrisenthill@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat)
+   [![Gmail Badge](https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:jeyasrisenthill@gmail.com)
 </div>
 <hr>
 <h4> 🙋🏻‍♀️ <i>ABOUT ME</i></h4>
