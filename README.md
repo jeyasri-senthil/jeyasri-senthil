@@ -19,7 +19,6 @@
 <h4> 🙋🏻‍♀️ <i>ABOUT ME</i></h4>
 <div align="center"><i>
   
-- Kind people ❤️ are my kinda people 💁🏻‍♀️.
 - 👩🏻‍🎓 Computer Science & Engineering student at KPRIET.
 - I'm a Goal-driven 🎯 and passionate Machine Learning practitioner.
 - ✨ I am a Data Science Enthusiast who wish to explore 🏄🏻‍♀️ more and keen to contribute more to a cause.
@@ -38,8 +37,8 @@
 - 🌱 I’m currently learning Algorithms and the Math 🧮 behind them. 
   </i></div>
 <hr>
-<details> 
- <summary><h4> 🌐 <i>CODING STUFFS</i></h4></summary>
+ 
+<h4> 🌐 <i>TECH STACK</i></h4>
   
  <div align="center">
   
@@ -62,13 +61,11 @@
    [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-FE7A16?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
    [![Generic badge](https://img.shields.io/badge/QUORA-%23B92B27.svg?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
    <div>
-</details>
 
-<details> 
- <summary><h4> 📈 <i>GITHUB STATS</i></h4></summary>
+<h4 align="left"> 📈 <i>GITHUB STATS</i></h4>
   
  <div align="center">
     
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=jeyasri-senthil&theme=dark-smoky)
  <div>
-</details> 
+ 
