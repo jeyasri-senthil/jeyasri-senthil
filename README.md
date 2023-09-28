@@ -35,8 +35,8 @@
 <hr>
 <div align="center"><i>
   
- - 👩🏻‍💻 I’m currently working on Machine Learning Projects. 
- - 🌱 I’m currently learning Algorithms and the Math 🧮 behind them. 
+ - 👩🏻‍💻 I’m currently working on Web Technologies. 
+ - 🌱 I’m currently learning Java Programming Language. 
   </i></div>
 <hr>
  
@@ -52,7 +52,7 @@
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
    ##### ✍🏻 I WRITE MY QUERIES AT
