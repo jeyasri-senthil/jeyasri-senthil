@@ -12,7 +12,7 @@
 <div align="center">
   <h6> LET'S GET CONNECTED </h6>
    
-   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyasri-senthil-60947b226/)
+   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyasri-senthil/)
    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeyasrisenthill@gmail.com)
 </div>
 <hr>
