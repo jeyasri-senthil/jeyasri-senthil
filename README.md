@@ -57,11 +57,8 @@
    <div>
 
 <h5 align="left"> 📈 GITHUB STATS</h5>
-  
- <div align="center">
-    
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyasri-senthil&theme=dark&show_icons=true)
+<div align="center">
+   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeyasri-senthil&theme=dark&show_icons=true) 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
- 
- <div>
+<div>
