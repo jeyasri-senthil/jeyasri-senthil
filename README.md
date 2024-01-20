@@ -43,17 +43,6 @@
    ##### 👩🏻‍💻 PROGRAMMING & MARKUP LANGUAGES
 [![PROGRAMMING & MARKUP LANGUAGES](https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript&theme=light)](https://skillicons.dev)
 
-   ##### 🧰 LIBRARIES & FRAMEWORK
-![NumPy Badge](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-Learn Badge](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-   ##### ✍🏻 I WRITE MY QUERIES AT
-[![Quora Badge](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Jeyasri-Senthil)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
    <div>
 
 <h5 align="left"> 📈 GITHUB STATS</h5>
