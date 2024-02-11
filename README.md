@@ -29,7 +29,8 @@
 
    [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeyasri-senthil?tab=repositories)
    [![CodingNinjas Badge](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/jeyasri_s)
-   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FE7A16?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jeyasri-senthil/)
+   [![InterviewBit Badge](https://img.shields.io/badge/InterviewBit-657383?style=flat&logoColor=white)](https://www.interviewbit.com/profile/21CS068_KPRIET/)
+   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-CA762B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jeyasri-senthil/)
    [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/21CS068_KPRIET?hr_r=1)
    [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/jeyasrisenthil)
    
