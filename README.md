@@ -28,11 +28,11 @@
   <h5> TAKE A LOOK AT MY WORKS ON</h5>
 
    [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeyasri-senthil?tab=repositories)
-   [![CodingNinjas Badge](https://img.shields.io/badge/CodingNinjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/jeyasri_s)
-   [![InterviewBit Badge](https://img.shields.io/badge/InterviewBit-657383?style=flat&logoColor=white)](https://www.interviewbit.com/profile/21CS068_KPRIET/)
-   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-CA762B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jeyasri-senthil/)
-   [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/21CS068_KPRIET?hr_r=1)
    [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/jeyasrisenthil)
+   [![LeetCode Badge](https://img.shields.io/badge/LeetCode-CA762B?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jeyasri-senthil/)
+   [![GeeksForGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-2EC866?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sriii07/)
+   [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/21CS068_KPRIET?hr_r=1)
+   [![CodingNinjas Badge](https://img.shields.io/badge/CodingNinjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/jeyasri_s)
    
 </div>
 <hr>
