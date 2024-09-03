@@ -21,7 +21,7 @@
   
  - 👩🏻‍🎓 <i>Computer Science & Engineering student at KPRIET.</i>
  - <i>I'm a Goal-driven</i> 🎯 <i>student passionate about</i> 👩🏻‍💻 <i><b>Problem-Solving</b> and <b>Java Programming.</b></i>
- - ✨ <i>I'm familiar with <b>Machine Learning</b> and <b>Exploratory Data Analysis</b>. Currently, I'm focusing on expanding my knowledge in <b>Front-End development.</b></i>
+ - ✨ <i>I'm familiar with <b>Machine Learning</b> and <b>Exploratory Data Analysis</b>. Currently, I'm focusing on expanding my knowledge in <b>Fullstack development.</b></i>
 </div>
 <hr> 
 <div align="center">
